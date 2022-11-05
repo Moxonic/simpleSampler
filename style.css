@@ -1,0 +1,25 @@
+*{ margin: 1rem;}
+.w_kik{
+    font-size: xx-large;
+    width:10rem;
+    height:10rem;
+    background-image: url('./img/kick.png');
+    background-color: aquamarine;
+}
+.a_drum{
+    font-size: xx-large;
+    width:10rem;
+    height:10rem;
+    background-image: url('./img/snare.png');}
+.s_drum{
+    font-size: xx-large;
+    width:10rem;
+    height:10rem;
+    background-image: url('./img/crash.png');}
+.pressed{
+    height:9rem;
+    width:9rem;
+    opacity: 50%;
+    box-shadow: 03px 4px 0 #878888;
+    opacity: 0.5;
+    }
